@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/require-await, @typescript-eslint/no-unsafe-argument */
+/* eslint-disable  @typescript-eslint/no-explicit-any */
 
 import {expect, jest, test} from '@jest/globals';
 import { Pool } from 'pg';
